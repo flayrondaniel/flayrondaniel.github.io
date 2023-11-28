@@ -1,27 +1,14 @@
 #bloco {
-    background-image: url(img/istockphoto-1256696490-612x612.jpg);
+    background-color:rgb(rgb(156, 131, 131));
 
-border: 1px solid #000000;
 
 }
 
-p {
-text-align: left;
-}
+
 
 p:hover {
-    background-color: rgb(37, 74, 131)5)
+    background-color: rgb()
 }
- #bloco1 {
-    width: 250px;
- }
- #bloco2 {
-    width: 280px;
- }
-#bloco3 {
-    width: 250px;
-    
-}
-
-
-
+ #bloco1 {  width: 900px;
+    margin:0 auto ;
+    text-align: center;}
